@@ -1,4 +1,4 @@
-package com.project.ase.foodrecognizer;
+package com.example.Hema.assignment3;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -32,7 +32,7 @@ import rendulic.igor.foodrecognition.FoodRecognitionTask;
 import rendulic.igor.foodrecognition.FoodServiceCallback;
 import rendulic.igor.foodrecognition.FoodTask;
 
-public class MainActivity extends AppCompatActivity {
+public class FoodRecognizer extends AppCompatActivity {
 
     private Button takePicture;
     private ImageView imageView;
